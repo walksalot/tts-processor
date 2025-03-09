@@ -1,0 +1,33 @@
+# Python virtual environment
+tts_env/
+venv/
+env/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache and temporary files
+.text2speech_cache/
+*.tmp
+.ipynb_checkpoints
+
+# Output directories - typically date-stamped
+*_20*_*/
+*_20*/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
