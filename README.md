@@ -1,8 +1,6 @@
 # TTS Processor
 
-A powerful CLI tool to convert text files to professional-sounding speech with AI preprocessing.
-
-![TTS Processor Banner](https://github.com/walksalot/tts-processor/raw/main/.github/images/tts-processor-banner.png)
+A powerful CLI tool to convert text files to professional-sounding speech with AI preprocessing, leveraging Claude 3.7, OpenAI TTS, and Eleven Labs.
 
 ## Features
 
